@@ -6,6 +6,8 @@ In this project, a teammate and I built a desk order application to speed up the
 
 [Actual Team Repository (Is private) ](https://github.com/jandyrae/MegaDesk_2.0_team) I'm logged in as byui-student in the commits section
 
+[Jandy GitHub Profile](https://github.com/jandyrae)
+
 # Development Environment
 
 We used Visual Studio as our code editor, C# as the programming language, and Windows Forms
