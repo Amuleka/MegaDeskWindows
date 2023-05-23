@@ -172,6 +172,7 @@ namespace MegaDesk_2
             cost += newDesk.DrawerCount * DeskQuote.CostPerDrawer;
             cost += materialCost;
             return cost;
+
         }
 
 
