@@ -3,6 +3,7 @@
 In this project, a teammate and I built a desk order application to speed up the process of orders depending on the different scenarios we could have
 
 [Software Demo Video](https://www.youtube.com/watch?v=Zpd3rUKQdLo)
+[Actual Team Repository (Is private) ](https://github.com/jandyrae/MegaDesk_2.0_team) I'm logged in as byui-student in the commits section
 
 # Development Environment
 
